@@ -1,6 +1,6 @@
 /*
 Ismael Villanueva-Miranda
-NodeJS server hosted in a Amazon virtual machine
+NodeJS server hosted in an Amazon virtual machine
 */
 
 var net = require('net');
